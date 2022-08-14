@@ -1,0 +1,17 @@
+# Site settings
+lang: en-US
+title: Fav Quote
+description: Fav Quote is a Micro Social Network with PHP, MySQL, Bootstrap 3 and Vue.JS 2. It don't use classes or a php framework.
+
+# About/contact
+author: ITSecurity
+  name: ALIF FUSOBAR
+  picture: https://avatars0.githubusercontent.com/u/25472045?s=400&v=4
+  twitter_username: Xcod3bughunt3r
+  github_username: Xcod3bughunt3r
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics: true
